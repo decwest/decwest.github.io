@@ -18,7 +18,6 @@ I have known Dr Gloria since I met her at IAS-17, an international conference I 
 
 I would be happy if we could continue our exchange and collaborate with each other.
 
-
 [X Post by Dr.Gloria](https://x.com/gloriaberaldo_/status/1794414838141374909)
 
 <img src='../../assets/img/news/gloria_lab_tour1.jpg' width="600">

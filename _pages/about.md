@@ -13,11 +13,21 @@ profile:
     <p>3-14-1, Hiyoshi</p>
     <p>Kohoku-ku, Yokohama, Japan</p>
 
-news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 15 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
-*Last Updated: 2025/9/16*
+
+_Last Updated: 2025/9/16_
 
 I am Fumiya Ohnishi, a second-year PhD student at the Graduate School of Science and Technology, Keio University.
 
@@ -79,7 +89,6 @@ Keywords: social robot navigation, perceived safety, mobile robot, robot vision
 
 <script src="https://player.vimeo.com/api/player.js"></script>
 
-
-<a href="ja" class="fancy-button">日本語のページ</a>
+<a href="ja/" style="display: inline-block; padding: 5px 10px; color: #fff; text-decoration: none; background: #3ec9f3; border-radius: 8px;">日本語のページ</a>
 
 <br/>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lab tour by Dr. Gloria & I presented a lead-authored paper at IAS-19! @ Italy
- <br/>Dr. Gloriaの研究室見学 & IAS-19で主著一件の発表を行いました。@イタリア
+  <br/>Dr. Gloriaの研究室見学 & IAS-19で主著一件の発表を行いました。@イタリア
 date: 2025-07-02 16:00:00-0400
 inline: false
 related_posts: false
@@ -61,4 +61,3 @@ IAS is a relatively small-scale conference, which makes it easy to have casual c
 At the same time, quite a few distinguished professors also participate. At IAS-17, for example, Prof. Wolfram Burgard attended, and I was able to speak with him. The photo I took with him remains one of my treasures.
 
 The upcoming IAS-20 in 2027 will actually be held at Keio University in Japan, with my supervisor, Prof. Masaki Takahashi, serving as General Chair. IAS is truly an excellent conference, and I hope to contribute to its organization myself. I also sincerely hope that many people will take part and experience its value.
-

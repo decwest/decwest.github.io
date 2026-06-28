@@ -1,8 +1,8 @@
 ---
 layout: about
 title: ja
-permalink: /ja
-subtitle: PhD student | 👪x🤖 
+permalink: /ja/
+subtitle: PhD student | 👪x🤖
 
 profile:
   align: right
@@ -13,11 +13,21 @@ profile:
     <p>〒223-8522 神奈川県横浜市</p>
     <p>港北区日吉 3-14-1</p>
 
-news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 15 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
-*Last Updated: 2025/9/16*
+
+_Last Updated: 2025/9/16_
 
 慶應義塾大学大学院 理工学研究科 後期博士課程2年の大西史弥です。
 
@@ -26,7 +36,6 @@ social: true # includes social icons at the bottom of the page
 キーワード：ソーシャルロボットナビゲーション、安全・安心、移動ロボット，ロボットビジョン
 
 <br/>
-
 
 <style>
   .video-container {
@@ -80,7 +89,6 @@ social: true # includes social icons at the bottom of the page
 
 <script src="https://player.vimeo.com/api/player.js"></script>
 
-
-<a href="/" class="fancy-button">English Page</a>
+<a href="/" style="display: inline-block; padding: 5px 10px; color: #fff; text-decoration: none; background: #3ec9f3; border-radius: 8px;">English Page</a>
 
 <br/>

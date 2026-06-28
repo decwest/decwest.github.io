@@ -14,4 +14,3 @@ RO-MANと本シンポジウムにおける多くのディスカッションや�
 I had a presentation titled "Spatial Representations for Safe Dynamic Human-Robot Interaction in a Hospital" in Symposium on Contextual Interaction for Mutual Understanding @ the Institute for Creative Technologies (ICT), University of Southern California. I presented a summary of the methodology I have implemented to build a spatial representation for safe robot navigation.
 
 I continued from RO-MAN and stayed in the USA for a total of 10 days. Through the many discussions at RO-MAN and this symposium, as well as the research presentations at this symposium, which gave a bird's eye view of my previous research, I gradually began to see the direction of the research I wanted to do.
-

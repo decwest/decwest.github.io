@@ -1,12 +1,11 @@
 ---
 layout: post
 title: I presented a lead-authored paper at IEEE RO-MAN 2024!
- <br/>RO-MAN2024で主著一件の発表を行いました。
+  <br/>RO-MAN2024で主著一件の発表を行いました。
 date: 2024-08-27 16:00:00-0400
 inline: false
 related_posts: false
 ---
-
 
 RO-MAN 2024のSpecial session "Bridging Trust and Context: Dynamic Interactions in HAI II"にて、"The Effect of Robot Pose and Distance on Pedestrian and Observer Comfort During Passing"という内容の発表を行いました。
 学会での質疑や聴講を通して、信頼感、安心感、安全性といったヒューマンロボットインタラクションで鍵となる感性に対する解像度が増し、有意義な出張でした。
@@ -25,5 +24,3 @@ The food was also excellent. I especially recommend the "Luckyboy" burger place 
 <img src='../../assets/img/news/roman2024.jpg' width="400">
 
 <img src='../../assets/img/news/luckyboy.jpg' width="400">
-
-

@@ -15,6 +15,3 @@ ROBOMECH 2023で「施設構造に沿って道を譲る病院内搬送ロボッ�
 引き続き頑張ります！
 
 <img src='../../assets/img/news/robomech2023.gif'>
-
-
-

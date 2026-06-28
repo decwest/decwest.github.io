@@ -3,6 +3,13 @@ services:
   jekyll:
     image: amirpourmand/al-folio:slim
     #build: .
+    working_dir: /srv/jekyll
+    command:
+      - bash
+      - -lc
+      - |
+        ruby -e 'File.binwrite("/tmp/entry_point.sh", File.binread("bin/entry_point.sh").delete(13.chr))'
+        bash /tmp/entry_point.sh
     ports:
       - 8080:8080
       - 35729:35729

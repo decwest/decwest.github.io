@@ -10,8 +10,4 @@ related_posts: false
 
 [https://www.kgri.keio.ac.jp/news-event/167418.html](https://www.kgri.keio.ac.jp/news-event/167418.html)
 
-
 <img src='../../assets/img/news/keio_cmu_symposium.jpg' width="400">
-
-
-

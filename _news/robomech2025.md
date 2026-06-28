@@ -17,4 +17,3 @@ related_posts: false
 米沢牛と日本酒があれば人は幸せになれるようです．これに温泉があれば完全優勝です．
 
 <img src='../../assets/img/news/robomech2025_beef.jpg' width="800">
-

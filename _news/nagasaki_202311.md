@@ -9,4 +9,3 @@ related_posts: false
 長崎リハビリテーション病院にて、研究室で開発している病院内搬送ロボットの実証実験を実施しました。
 
 An experiment of the hospital transport robot being developed in the laboratory was carried out at Nagasaki Rehabilitation Hospital.
-

@@ -3,23 +3,70 @@
 ---
 @charset "utf-8";
 
-// Dimensions
-$max-content-width: {{ site.max_width }};
+/* Built-in Sass modules used across plugin partials. */
+@use "sass:math";
+@use "sass:string";
 
-@import
-  "variables",
-  "themes",
-  "layout",
-  "base",
-  "distill",
-  "cv",
-  "tabs",
-  "typograms",
-  "font-awesome/fontawesome",
-  "font-awesome/brands",
-  "font-awesome/solid",
-  "font-awesome/regular",
-  "tabler-icons/tabler-icons.scss",
-  "tabler-icons/tabler-icons-filled.scss",
-  "tabler-icons/tabler-icons-outline.scss"
-;
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default:  "930px" }}
+);
+
+@use "themes";
+@use "layout";
+
+// Core styles organized by usage
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+
+// Other specialized styles
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+/* decwest site overrides: keep the pre-v1 cyan accent and show desktop nav. */
+:root {
+  --global-theme-color: #3ec9f3;
+  --global-hover-color: #3ec9f3;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #3ec9f3;
+  --global-hover-color: #3ec9f3;
+}
+
+@media (min-width: 576px) {
+  .navbar-expand-sm .navbar-collapse-main,
+  .navbar-expand-sm .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+    visibility: visible !important;
+  }
+
+  .navbar-expand-sm .navbar-toggler-main,
+  .navbar-expand-sm .navbar-toggler {
+    display: none !important;
+  }
+
+  .navbar-expand-sm .navbar-nav {
+    flex-direction: row;
+  }
+}
+
+.cv {
+  overflow-wrap: anywhere;
+}
+
+.cv .items {
+  padding-left: 1.25rem;
+}
+
+.cv .item,
+.cv a {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
