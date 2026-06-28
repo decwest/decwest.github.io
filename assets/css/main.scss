@@ -57,6 +57,15 @@ html[data-theme="dark"] {
   }
 }
 
+@media (max-width: 575.98px) {
+  .post article > .profile {
+    float: none !important;
+    width: min(74vw, 260px);
+    margin: 0 auto 1.25rem;
+    text-align: center;
+  }
+}
+
 .cv {
   overflow-wrap: anywhere;
 }
