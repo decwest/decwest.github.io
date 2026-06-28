@@ -58,12 +58,39 @@ html[data-theme="dark"] {
 }
 
 @media (max-width: 575.98px) {
+  .navbar-expand-sm .navbar-toggler-main,
+  .navbar-expand-sm .navbar-toggler {
+    display: block !important;
+  }
+
+  .navbar-expand-sm .navbar-collapse-main.show,
+  .navbar-expand-sm .navbar-collapse.show {
+    display: block !important;
+    flex-basis: 100%;
+    visibility: visible !important;
+    width: 100%;
+  }
+
+  .navbar-expand-sm .navbar-nav {
+    flex-direction: column;
+  }
+
   .post article > .profile {
     float: none !important;
     width: min(74vw, 260px);
     margin: 0 auto 1.25rem;
     text-align: center;
   }
+}
+
+.post article img {
+  height: auto;
+  max-width: 100%;
+}
+
+.post article h2 a,
+.post article h3 a {
+  overflow-wrap: anywhere;
 }
 
 .cv {
