@@ -27,6 +27,7 @@ _Last Updated: 2026/6/30_
 
 ## **Domestic Conference**
 
+- **大西史弥**，髙橋正樹，“Dynamic Window Pure PursuitのNav2統合とPure Pursuit系手法の比較”，ロボティクス・メカトロニクス講演会 (**ROBOMECH 2026**)，2A2-N05，福岡（福岡国際会議場），2026. (Presentation date: 2026/7/1)
 - **大西史弥**，川崎陽祐，髙橋正樹，“すれ違い・停止判断を含む自律移動ロボットの歩行者回避戦略と病院内実験評価”，第43回 ロボット学会学術講演会 (**RSJ 2025**)，1C1-03，東京（東京科学大学大岡山キャンパス），2025. (Presentation date: 2025/9/3)
 - **大西史弥**，髙橋正樹，“自律移動ロボットの壁に沿う移動と姿勢変動が搭乗者の快適性に与える影響 (The Effect of Wall-Following and Pose-Changing Movement on Passenger Comfort of Autonomous Mobile Robots)”，Dynamics and Design Conference 2025 (**D&D 2025**), OS9-2-1-02，沖縄（琉球大学千原キャンパス），2025. (Presentation date: 2025/8/28)
 - **大西史弥**，髙橋正樹，“DWPP: Dynamic Windowを用いた速度・加速度制約を考慮したPure Pursuit (DWPP: A Dynamic Window-based Pure Pursuit Method Considering Velocity and Acceleration Constraints)”，ロボティクス・メカトロニクス講演会 (**ROBOMECH 2025**)， 2A2-Q09，山形，2025. (Presentation date: 2025/6/6) [[GitHub](https://github.com/Decwest/nav2_dynamic_window_pure_pursuit_controller)]
