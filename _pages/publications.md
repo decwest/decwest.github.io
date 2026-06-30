@@ -9,9 +9,13 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-_Last Updated: 2025/9/16_
+_Last Updated: 2026/6/30_
 
-**Jump to**: [International Conference](#international-conference), [Domestic Conference](#domestic-conference), [Other Presentations](#other-presentations)
+**Jump to**: [Journal](#journal), [International Conference](#international-conference), [Domestic Conference](#domestic-conference), [Other Presentations](#other-presentations)
+
+## **Journal**
+
+- **Fumiya Ohnishi**, Masaki Takahashi, “DWPP: Dynamic Window Pure Pursuit Considering Velocity and Acceleration Constraints”, arXiv:2601.15006, 2026. [[link](https://doi.org/10.48550/arXiv.2601.15006)]
 
 ## **International Conference**
 
@@ -32,6 +36,7 @@ _Last Updated: 2025/9/16_
 
 ## **Other Presentations**
 
+- **大西史弥**，髙橋正樹，“Dynamic Window Pure Pursuitの提案とNav2プラグイン実装によるHSRへの適用”，HSRコミュニティ2025年度総会，2025. (Presentation date: 2025/11/22)
 - **大西史弥**，髙橋正樹，“DWPP: Dynamic Windowを用いた速度・加速度制約を考慮したPure Pursuitの提案とNav2プラグインの実装公開”, ROSConJP 2025，名古屋，2025. (査読あり，Presentation date: 2025/9/9) [[Video](https://www.youtube.com/live/y1FqHlsJU4k?si=_CG0E1qdM0iK5PQh&t=11313)] [[GitHub](https://github.com/Decwest/nav2_dynamic_window_pure_pursuit_controller)]
 - **慶應義塾大学・長崎リハビリテーション病院によるロボット・見守りシステム共同開発**, 機器展示会場にて搬送ロボット，見守りシステムに関するポスター発表を実施，第75回日本病院学会，長崎，2025. (Presentation date: 2025/7/24-25)
 - **Fumiya Ohnishi**, Masaki Takahashi, "Go Straight! Evaluating Social Acceptance of Paths in Corridors with Varying Widths from Passenger and Observer Perspectives", Keio-CMU AI Research Workshop 2025, Hiyoshi Campus at Keio University, Japan, 2025. (Presentation date: 2025/4/28)
