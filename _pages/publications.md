@@ -35,10 +35,19 @@ _Last Updated: 2026/6/30_
 - **大西史弥**，川崎陽祐，髙橋正樹，“施設構造に沿って道を譲る病院内搬送ロボットの動作計画 (Motion Planning of Give-Way Behavior Along the Facility Structure)”，ロボティクス・メカトロニクス講演会 (**ROBOMECH 2023**), 2P1-G03，名古屋，2023. [[link](https://www.jstage.jst.go.jp/article/jsmermd/2023/0/2023_2P1-G03/_article/-char/ja/)] (Presentation date: 2023/6/29)
 - **大西史弥**，川崎陽祐，髙橋正樹，“ユーザの修正経路教示に基づく協働搬送ロボットの目的地推論 (Goal Inference via Corrective Path Demonstration for Collaborative Delivery Robot)”，ロボティクス・メカトロニクス講演会 (**ROBOMECH 2022**)， 1A1-T07，札幌，2022. [[link](https://www.jstage.jst.go.jp/article/jsmermd/2022/0/2022_1A1-T07/_article/-char/ja/)] (Presentation date: 2022/6/2)
 
+## **ROSCon Global**
+- **Fumiya Ohnishi**, Masaki Takahashi (Keio University), Dynamic Window Pure Pursuit in Nav2 Regulated Pure Pursuit, ROSCon Global 2026, Toronto, Canada, 2026.  (acceptance rate 24%，Presentation date: 2026/9/23)
+- Tomoya Fujita (TriOrb.Inc), **Fumiya Ohnishi** (Keio University), "ros2log new CLI and rcl_logging_implementation for Lyrical Luth", ROSCon Global 2026, Toronto, Canada, 2026.  (acceptance rate 24%，Presentation date: 2026/9/23)
+
+## **ROSCon JP**
+- **大西 史弥**, 髙橋 正樹 (慶應義塾大学)，"Dynamic Window Pure PursuitのNav2 Regulated Pure Pursuit Controllerへの公式統合", ROSConJP 2026，つくば，2026. (査読あり，Presentation date: 2026/8/6) [[Slide](https://www.docswell.com/s/Decwest/K6NLMV-2026-08-05-225342/1)]
+- **大西 史弥** (慶應義塾大学), 藤田 智哉 (TriOrb Inc.)，"ros2log: ROS 2のログ制御を統合する公式CLIの開発"，ROSConJP 2026，つくば，2026. (査読あり，Presentation date: 2026/8/6) [[Slide](https://www.docswell.com/s/Decwest/KVJ87P-2026-08-05-230822/1)]
+- 藤田 智哉, **大西 史弥**, 野村 弘行, 佐藤 大亮，"パネルトーク：ROS Japan Developer Kaigi(会議) のこれまでとこれから"，ROSConJP 2026，つくば，2026.
+- **大西史弥**，髙橋正樹 (慶應義塾大学)，“DWPP: Dynamic Windowを用いた速度・加速度制約を考慮したPure Pursuitの提案とNav2プラグインの実装公開”, ROSConJP 2025，名古屋，2025. (査読あり，Presentation date: 2025/9/9) [[Video](https://www.youtube.com/live/y1FqHlsJU4k?si=_CG0E1qdM0iK5PQh&t=11313)] [[GitHub](https://github.com/Decwest/nav2_dynamic_window_pure_pursuit_controller)]
+
 ## **Other Presentations**
 
 - **大西史弥**，髙橋正樹，“Dynamic Window Pure Pursuitの提案とNav2プラグイン実装によるHSRへの適用”，HSRコミュニティ2025年度総会，2025. (Presentation date: 2025/11/22)
-- **大西史弥**，髙橋正樹，“DWPP: Dynamic Windowを用いた速度・加速度制約を考慮したPure Pursuitの提案とNav2プラグインの実装公開”, ROSConJP 2025，名古屋，2025. (査読あり，Presentation date: 2025/9/9) [[Video](https://www.youtube.com/live/y1FqHlsJU4k?si=_CG0E1qdM0iK5PQh&t=11313)] [[GitHub](https://github.com/Decwest/nav2_dynamic_window_pure_pursuit_controller)]
 - **慶應義塾大学・長崎リハビリテーション病院によるロボット・見守りシステム共同開発**, 機器展示会場にて搬送ロボット，見守りシステムに関するポスター発表を実施，第75回日本病院学会，長崎，2025. (Presentation date: 2025/7/24-25)
 - **Fumiya Ohnishi**, Masaki Takahashi, "Go Straight! Evaluating Social Acceptance of Paths in Corridors with Varying Widths from Passenger and Observer Perspectives", Keio-CMU AI Research Workshop 2025, Hiyoshi Campus at Keio University, Japan, 2025. (Presentation date: 2025/4/28)
 - **Fumiya Ohnishi**, "Spatial Representations for Safe Dynamic Human-Robot Interaction in a Hospital", Symposium on Contextual Interaction for Mutual Understanding, the Institute for Creative Technologies (ICT), University of Southern California, USA, 2024. (Presentation date: 2024/9/3)
