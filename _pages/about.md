@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 15 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-_Last Updated: 2026/6/30_
+_Last Updated: 2026/9/29_
 
 I am Fumiya Ohnishi, a third-year PhD student at the Graduate School of Science and Technology, Keio University.
 
