@@ -9,12 +9,13 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-_Last Updated: 2026/6/30_
+_Last Updated: 2026/10/16_
 
 **Jump to**: [Journal](#journal), [International Conference](#international-conference), [Domestic Conference](#domestic-conference), [Other Presentations](#other-presentations)
 
 ## **Journal**
 
+- **Fumiya Ohnishi**, Gloria Beraldo, Masaki Takahashi, “Evaluating the Comfort of Robot Paths in Varying-Width Corridors: Passenger vs. Observer Perspectives”, Frontiers in Robotics and AI, Vol. 13, 1971439, 2026. [[link](https://doi.org/10.3389/frobt.2026.1971439)]
 - **Fumiya Ohnishi**, Masaki Takahashi, “DWPP: Dynamic Window Pure Pursuit Considering Velocity and Acceleration Constraints”, arXiv:2601.15006, 2026. [[link](https://doi.org/10.48550/arXiv.2601.15006)]
 
 ## **International Conference**
