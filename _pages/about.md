@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-_Last Updated: 2026/9/29_
+_Last Updated: 2026/10/23_
 
 I am Fumiya Ohnishi, a third-year PhD student at the Graduate School of Science and Technology, Keio University.
 
@@ -38,7 +38,15 @@ Keywords: social robot navigation, human comfort, mobile robot, robot vision
 <br/>
 
 <style>
+  @media (min-width: 576px) {
+    .post article > .profile {
+      width: 24%;
+      margin-bottom: 1.5rem;
+    }
+  }
+
   .video-container {
+    clear: both;
     position: relative;
     padding-top: 56.25%; /* 16:9 アスペクト比 */
     overflow: hidden;
@@ -72,11 +80,11 @@ Keywords: social robot navigation, human comfort, mobile robot, robot vision
 </div>
 <p class="video-caption">My research introduction video (Japanese)</p>
 
-<!-- Vimeo 動画 -->
+<!-- ROSCon Global 2026: DWPP -->
 <div class="video-container">
   <iframe
-    src="https://player.vimeo.com/video/1122708915?badge=0&autopause=0&player_id=0&app_id=58479"
-    title="DWPP: Dynamic Windowを用いた速度・加速度制約を考慮したPure Pursuitの提案とNav2プラグインの実装公開 - 大西 史弥、髙橋 正樹 (慶應義塾大学)"
+    src="https://player.vimeo.com/video/1235288719?badge=0&autopause=0&player_id=0&app_id=58479"
+    title="Dynamic Window Pure Pursuit in Nav2 Regulated Pure Pursuit - ROSCon Global 2026"
     loading="lazy"
     allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
@@ -84,7 +92,22 @@ Keywords: social robot navigation, human comfort, mobile robot, robot vision
   </iframe>
 </div>
 <p class="video-caption">
-  Introduction of Nav2 Plugin of Dynamic Window Pure Pursuit at ROSConJP 2025 (Japanese)
+  Dynamic Window Pure Pursuit in Nav2 Regulated Pure Pursuit at ROSCon Global 2026 (English)
+</p>
+
+<!-- ROSCon Global 2026: ros2log -->
+<div class="video-container">
+  <iframe
+    src="https://player.vimeo.com/video/1233910295?badge=0&autopause=0&player_id=0&app_id=58479"
+    title="ros2log new CLI and rcl_logging_implementation for Lyrical Luth - ROSCon Global 2026"
+    loading="lazy"
+    allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+<p class="video-caption">
+  ros2log new CLI and rcl_logging_implementation for Lyrical Luth at ROSCon Global 2026 (English)
 </p>
 
 <script src="https://player.vimeo.com/api/player.js"></script>

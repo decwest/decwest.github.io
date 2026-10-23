@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-_Last Updated: 2026/10/20_
+_Last Updated: 2026/10/23_
 
 **Jump to**: [Journal](#journal), [International Conference](#international-conference), [Domestic Conference](#domestic-conference), [Other Presentations](#other-presentations)
 
@@ -39,13 +39,15 @@ _Last Updated: 2026/10/20_
 - **大西史弥**，川崎陽祐，髙橋正樹，“ユーザの修正経路教示に基づく協働搬送ロボットの目的地推論 (Goal Inference via Corrective Path Demonstration for Collaborative Delivery Robot)”，ロボティクス・メカトロニクス講演会 (**ROBOMECH 2022**)， 1A1-T07，札幌，2022. [[link](https://www.jstage.jst.go.jp/article/jsmermd/2022/0/2022_1A1-T07/_article/-char/ja/)] (Presentation date: 2022/6/2)
 
 ## **ROSCon Global**
-- **Fumiya Ohnishi**, Masaki Takahashi (Keio University), Dynamic Window Pure Pursuit in Nav2 Regulated Pure Pursuit, ROSCon Global 2026, Toronto, Canada, 2026.  (acceptance rate 24%，Presentation date: 2026/9/23)
-- Tomoya Fujita (TriOrb.Inc), **Fumiya Ohnishi** (Keio University), "ros2log new CLI and rcl_logging_implementation for Lyrical Luth", ROSCon Global 2026, Toronto, Canada, 2026.  (acceptance rate 24%，Presentation date: 2026/9/23)
+
+- **Fumiya Ohnishi**, Masaki Takahashi (Keio University), Dynamic Window Pure Pursuit in Nav2 Regulated Pure Pursuit, ROSCon Global 2026, Toronto, Canada, 2026. (acceptance rate 24%，Presentation date: 2026/9/23) [[Slide](https://www.docswell.com/s/Decwest/5Q27WE-2026-09-24-003533)] [[Video](https://vimeo.com/showcase/12459077?video=1235288719)]
+- Tomoya Fujita (TriOrb.Inc), **Fumiya Ohnishi** (Keio University), "ros2log new CLI and rcl_logging_implementation for Lyrical Luth", ROSCon Global 2026, Toronto, Canada, 2026. (acceptance rate 24%，Presentation date: 2026/9/23) [[Video](https://vimeo.com/showcase/12459077?video=1233910295)]
 
 ## **ROSCon JP**
-- **大西 史弥**, 髙橋 正樹 (慶應義塾大学)，"Dynamic Window Pure PursuitのNav2 Regulated Pure Pursuit Controllerへの公式統合", ROSConJP 2026，つくば，2026. (査読あり，Presentation date: 2026/8/6) [[Slide](https://www.docswell.com/s/Decwest/K6NLMV-2026-08-05-225342/1)]
-- **大西 史弥** (慶應義塾大学), 藤田 智哉 (TriOrb Inc.)，"ros2log: ROS 2のログ制御を統合する公式CLIの開発"，ROSConJP 2026，つくば，2026. (査読あり，Presentation date: 2026/8/6) [[Slide](https://www.docswell.com/s/Decwest/KVJ87P-2026-08-05-230822/1)]
-- 藤田 智哉, **大西 史弥**, 野村 弘行, 佐藤 大亮，"パネルトーク：ROS Japan Developer Kaigi(会議) のこれまでとこれから"，ROSConJP 2026，つくば，2026.
+
+- **大西 史弥**, 髙橋 正樹 (慶應義塾大学)，"Dynamic Window Pure PursuitのNav2 Regulated Pure Pursuit Controllerへの公式統合", ROSConJP 2026，つくば，2026. (査読あり，Presentation date: 2026/8/6) [[Slide](https://www.docswell.com/s/Decwest/K6NLMV-2026-08-05-225342/1)] [[Video](https://vimeo.com/showcase/12425759?video=1227559433)]
+- **大西 史弥** (慶應義塾大学), 藤田 智哉 (TriOrb Inc.)，"ros2log: ROS 2のログ制御を統合する公式CLIの開発"，ROSConJP 2026，つくば，2026. (査読あり，Presentation date: 2026/8/6) [[Slide](https://www.docswell.com/s/Decwest/KVJ87P-2026-08-05-230822/1)] [[Video](https://vimeo.com/showcase/12425759?video=1227556406)]
+- 藤田 智哉, **大西 史弥**, 野村 弘行, 佐藤 大亮，"パネルトーク：ROS Japan Developer Kaigi(会議) のこれまでとこれから"，ROSConJP 2026，つくば，2026. [[Video](https://vimeo.com/showcase/12425759?video=1227554208)]
 - **大西史弥**，髙橋正樹 (慶應義塾大学)，“DWPP: Dynamic Windowを用いた速度・加速度制約を考慮したPure Pursuitの提案とNav2プラグインの実装公開”, ROSConJP 2025，名古屋，2025. (査読あり，Presentation date: 2025/9/9) [[Video](https://www.youtube.com/live/y1FqHlsJU4k?si=_CG0E1qdM0iK5PQh&t=11313)] [[GitHub](https://github.com/Decwest/nav2_dynamic_window_pure_pursuit_controller)]
 
 ## **Other Presentations**

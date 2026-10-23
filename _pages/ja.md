@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-_Last Updated: 2026/9/29_
+_Last Updated: 2026/10/23_
 
 慶應義塾大学大学院 理工学研究科 後期博士課程3年の大西史弥です。
 
@@ -38,7 +38,15 @@ _Last Updated: 2026/9/29_
 <br/>
 
 <style>
+  @media (min-width: 576px) {
+    .post article > .profile {
+      width: 24%;
+      margin-bottom: 1.5rem;
+    }
+  }
+
   .video-container {
+    clear: both;
     position: relative;
     padding-top: 56.25%; /* 16:9 アスペクト比 */
     overflow: hidden;
@@ -72,11 +80,11 @@ _Last Updated: 2026/9/29_
 </div>
 <p class="video-caption">研究紹介動画（中高生向け）</p>
 
-<!-- Vimeo 動画 -->
+<!-- ROSCon JP 2026: DWPP -->
 <div class="video-container">
   <iframe
-    src="https://player.vimeo.com/video/1122708915?badge=0&autopause=0&player_id=0&app_id=58479"
-    title="DWPP: Dynamic Windowを用いた速度・加速度制約を考慮したPure Pursuitの提案とNav2プラグインの実装公開 - 大西 史弥、髙橋 正樹 (慶應義塾大学)"
+    src="https://player.vimeo.com/video/1227559433?badge=0&autopause=0&player_id=0&app_id=58479"
+    title="Dynamic Window Pure PursuitのNav2 Regulated Pure Pursuit Controllerへの公式統合 - ROSCon JP 2026"
     loading="lazy"
     allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
@@ -84,7 +92,37 @@ _Last Updated: 2026/9/29_
   </iframe>
 </div>
 <p class="video-caption">
-  Dynamic Window Pure PursuitのNav2プラグイン紹介@ROSConJP 2025
+  Dynamic Window Pure PursuitのNav2 Regulated Pure Pursuit Controllerへの公式統合（ROSCon JP 2026）
+</p>
+
+<!-- ROSCon JP 2026: ros2log -->
+<div class="video-container">
+  <iframe
+    src="https://player.vimeo.com/video/1227556406?badge=0&autopause=0&player_id=0&app_id=58479"
+    title="ros2log: ROS 2のログ制御を統合する公式CLIの開発 - ROSCon JP 2026"
+    loading="lazy"
+    allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+<p class="video-caption">
+  ros2log: ROS 2のログ制御を統合する公式CLIの開発（ROSCon JP 2026）
+</p>
+
+<!-- ROSCon JP 2026: パネルトーク -->
+<div class="video-container">
+  <iframe
+    src="https://player.vimeo.com/video/1227554208?badge=0&autopause=0&player_id=0&app_id=58479"
+    title="パネルトーク：ROS Japan Developer Kaigi(会議) のこれまでとこれから - ROSCon JP 2026"
+    loading="lazy"
+    allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+<p class="video-caption">
+  パネルトーク：ROS Japan Developer Kaigi(会議) のこれまでとこれから（ROSCon JP 2026）
 </p>
 
 <script src="https://player.vimeo.com/api/player.js"></script>
