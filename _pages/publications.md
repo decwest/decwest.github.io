@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-_Last Updated: 2026/10/23_
+_Last Updated: 2026/10/26_
 
 **Jump to**: [Journal](#journal), [International Conference](#international-conference), [Domestic Conference](#domestic-conference), [Other Presentations](#other-presentations)
 
@@ -17,7 +17,7 @@ _Last Updated: 2026/10/23_
 
 - **Fumiya Ohnishi**, Gloria Beraldo, Masaki Takahashi, “Evaluating the Comfort of Robot Paths in Varying-Width Corridors: Passenger vs. Observer Perspectives”, Frontiers in Robotics and AI, Vol. 13, 1971439, 2026. [[link](https://doi.org/10.3389/frobt.2026.1971439)]
 - **大西史弥**，大野斗真，中野剛，傳田遊亀，高橋正樹，“走行経路に基づく複数マスク候補の統合による屋内施設環境の意味的走行可能領域データセット自動生成 (Automatic Generation of Semantic Traversability Datasets for Indoor Facilities by Path-Based Integration of Multiple Segmentation Mask Candidates)”，日本ロボット学会誌（レター），採録決定（2026/9/28）.
-- **Fumiya Ohnishi**, Masaki Takahashi, “DWPP: Dynamic Window Pure Pursuit Considering Velocity and Acceleration Constraints”, arXiv:2601.15006, 2026. [[link](https://doi.org/10.48550/arXiv.2601.15006)]
+- **Fumiya Ohnishi**, Masaki Takahashi, “DWPP: Dynamic Window Pure Pursuit Considering Velocity and Acceleration Constraints”, Robotics and Autonomous Systems, accepted for publication. [[Preprint](https://doi.org/10.48550/arXiv.2601.15006)]
 
 ## **International Conference**
 
