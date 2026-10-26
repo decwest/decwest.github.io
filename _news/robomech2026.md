@@ -7,4 +7,3 @@ related_posts: false
 ---
 
 ロボティクス・メカトロニクス講演会2026 in Fukuoka (ROBOMECH 2026) にて，「Dynamic Window Pure PursuitのNav2統合とPure Pursuit系手法の比較」と題してポスター発表しました．
-

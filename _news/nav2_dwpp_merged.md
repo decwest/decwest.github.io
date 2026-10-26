@@ -12,5 +12,5 @@ related_posts: false
 
 Nav2公式ドキュメント：
 
-- [Regulated Pure Pursuit Controller Configuration](https://docs.nav2.org/configuration/packages/configuring-regulated-pp.html)
-- [Add Dynamic Window Pure Pursuit Option to Regulated Pure Pursuit Controller](https://docs.nav2.org/migration/Kilted.html#add-dynamic-window-pure-pursuit-option-to-regulated-pure-pursuit-controller)
+- [Regulated Pure Pursuit Controller Configuration](https://docs.nav2.org/lyrical/configuration_and_development/configuration_guide/controller_plugins/configuring_regulated_pp/)
+- [Add Dynamic Window Pure Pursuit Option to Regulated Pure Pursuit Controller](https://docs.nav2.org/lyrical/configuration_and_development/migration_guides/kilted/Kilted/#add-dynamic-window-pure-pursuit-option-to-regulated-pure-pursuit-controller)

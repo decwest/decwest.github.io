@@ -7,6 +7,7 @@ related_posts: false
 ---
 
 ROSConJP 2026にて，以下3件の登壇をいたしました．
+
 - 大西 史弥, 髙橋 正樹 (慶應義塾大学)，Dynamic Window Pure PursuitのNav2 Regulated Pure Pursuit Controllerへの公式統合
 - 大西 史弥 (慶應義塾大学), 藤田 智哉 (TriOrb Inc.)，ros2log: ROS 2のログ制御を統合する公式CLIの開発
 - 藤田 智哉, 大西 史弥, 野村 弘行, 佐藤 大亮，パネルトーク：ROS Japan Developer Kaigi(会議) のこれまでとこれから
@@ -21,4 +22,3 @@ ROSConJP 2026にて，以下3件の登壇をいたしました．
 - ros2log: ROS 2のログ制御を統合する公式CLIの開発，[https://www.docswell.com/s/Decwest/KVJ87P-2026-08-05-230822/1](https://www.docswell.com/s/Decwest/KVJ87P-2026-08-05-230822/1)
 
 <img src='../../assets/img/news/rosconjp2026.png' width="800">
-

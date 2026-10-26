@@ -101,6 +101,13 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
+      - name: Upload site for link checks
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-for-link-checks
+          path: _site/
+          if-no-files-found: error
+          retention-days: 1
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
