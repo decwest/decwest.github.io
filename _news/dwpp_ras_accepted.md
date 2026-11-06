@@ -10,4 +10,5 @@ DWPPの論文が **Robotics and Autonomous Systems** に採録されました！
 
 “DWPP: Dynamic Window Pure Pursuit Considering Velocity and Acceleration Constraints” has been accepted for publication in **Robotics and Autonomous Systems**.
 
+- [Published version (Open Access, DOI: 10.1016/j.robot.2026.105839)](https://doi.org/10.1016/j.robot.2026.105839)
 - [Preprint (arXiv:2601.15006)](https://doi.org/10.48550/arXiv.2601.15006)

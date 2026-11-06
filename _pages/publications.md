@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-_Last Updated: 2026/10/26_
+_Last Updated: 2026/11/6_
 
 **Jump to**: [Journal](#journal), [International Conference](#international-conference), [Domestic Conference](#domestic-conference), [Other Presentations](#other-presentations)
 
@@ -17,11 +17,11 @@ _Last Updated: 2026/10/26_
 
 - **Fumiya Ohnishi**, Gloria Beraldo, Masaki Takahashi, “Evaluating the Comfort of Robot Paths in Varying-Width Corridors: Passenger vs. Observer Perspectives”, Frontiers in Robotics and AI, Vol. 13, 1971439, 2026. [[link](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1971439/abstract)]
 - **大西史弥**，大野斗真，中野剛，傳田遊亀，高橋正樹，“走行経路に基づく複数マスク候補の統合による屋内施設環境の意味的走行可能領域データセット自動生成 (Automatic Generation of Semantic Traversability Datasets for Indoor Facilities by Path-Based Integration of Multiple Segmentation Mask Candidates)”，日本ロボット学会誌（レター），採録決定（2026/9/28）.
-- **Fumiya Ohnishi**, Masaki Takahashi, “DWPP: Dynamic Window Pure Pursuit Considering Velocity and Acceleration Constraints”, Robotics and Autonomous Systems, accepted for publication. [[Preprint](https://doi.org/10.48550/arXiv.2601.15006)]
+- **Fumiya Ohnishi**, Masaki Takahashi, “DWPP: Dynamic Window Pure Pursuit Considering Velocity and Acceleration Constraints”, Robotics and Autonomous Systems, 105839, 2026. [[link](https://doi.org/10.1016/j.robot.2026.105839)] [[Preprint](https://doi.org/10.48550/arXiv.2601.15006)] [[GitHub](https://github.com/Decwest/nav2_dynamic_window_pure_pursuit_controller)] [[Nav2 Configuration Guide](https://docs.nav2.org/lyrical/configuration_and_development/configuration_guide/controller_plugins/configuring_regulated_pp/)]
 
 ## **International Conference**
 
-- **Fumiya Ohnishi**, Masaki Takahashi, “Dynamic Window Pure Pursuit for Robot Path Tracking Considering Velocity and Acceleration Constraints”, Proceedings of the 19th International Conference on Intelligent Autonomous Systems (**IAS-19**), Genoa, Italy, 2025. (Presentation date: 2025/7/2) [[GitHub](https://github.com/Decwest/nav2_dynamic_window_pure_pursuit_controller)]
+- **Fumiya Ohnishi**, Masaki Takahashi, “Dynamic Window Pure Pursuit for Robot Path Tracking Considering Velocity and Acceleration Constraints”, Proceedings of the 19th International Conference on Intelligent Autonomous Systems (**IAS-19**), pp.219-230, Genoa, Italy, 2025. [[link](https://link.springer.com/chapter/10.1007/978-3-032-33871-6_16)] (Presentation date: 2025/7/2) [[GitHub](https://github.com/Decwest/nav2_dynamic_window_pure_pursuit_controller)]
 - **Fumiya Ohnishi**, Masaki Takahashi, “The Effect of Robot Pose and Distance on Pedestrian and Observer Comfort During Passing”, 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (**RO-MAN**), Pasadena, USA, 2024.[[link](https://ieeexplore.ieee.org/document/10731295)] (Presentation date: 2024/8/27)
 - **Fumiya Ohnishi**, Yosuke Kawasaki, Masaki Takahashi, “Investigation of an Autonomous Mobile Robot’s Avoidance Motion for Pedestrian and Observer Comfort in a Hospital Environment”, 2024 IEEE International Conference on Robotics and Automation (**ICRA**) Workshop on Nursing Robotics, Yokohama, Japan, 2024. [[link](https://zkks.w3.kanazawa-u.ac.jp/ICRA2024/postersession/#:~:text=Investigation%20of%20an%20Autonomous%20Mobile%20Robot%E2%80%99s%20Avoidance%20Motion%20for%20Pedestrian%20and%20Observer%20Comfort%20in%20a%20Hospital%20Environment)] (Presentation date: 2024/5/17)
 - **Fumiya Ohnishi**, Yosuke Kawasaki, Masaki Takahashi, “Rush-out risk mapping from human operational commands considering field context”, 2023 32nd IEEE International Conference on Robot and Human Interactive Communication (**RO-MAN**), Busan, Korea, 2023. [[link](https://ieeexplore.ieee.org/document/10309633/)] (Presentation date: 2023/8/31)
